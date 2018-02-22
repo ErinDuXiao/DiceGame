@@ -1,0 +1,6 @@
+H:\01_programming\Dicegame\Dicegame\bin\Debug\Dicegame.exe.config
+H:\01_programming\Dicegame\Dicegame\bin\Debug\Dicegame.exe
+H:\01_programming\Dicegame\Dicegame\bin\Debug\Dicegame.pdb
+H:\01_programming\Dicegame\Dicegame\obj\Debug\Dicegame.exe
+H:\01_programming\Dicegame\Dicegame\obj\Debug\Dicegame.pdb
+H:\01_programming\Dicegame\Dicegame\obj\Debug\Dicegame.csprojResolveAssemblyReference.cache
